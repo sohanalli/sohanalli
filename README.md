@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sohan Alli! 👋</h1>
-<h3 align="center">🚀 Software Developer | New Grad | AWS Certified | Open-Source Enthusiast</h3>
+<h3 align="center">🚀 Software Developer | New Grad | AWS Certified </h3>
 
 <p align="center">
   <a href="mailto:sohanalli@outlook.in"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail"></a>
@@ -71,14 +71,6 @@
 📌 2D "No Internet Dino Game" clone with adaptive difficulty.
 
 🔗 **See all my projects:** [GitHub Repositories](https://github.com/sohanalli?tab=repositories)
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohanalli&show_icons=true&theme=radical" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanalli&theme=radical" width="400px" />
-</p>
 
 ---
 
