@@ -47,23 +47,27 @@
 
 ## 🚀 **Featured Projects**
 ### 🌱 [NutriBuddy](https://github.com/sohanalli/NutriBuddy) 🍏  
-🛠️ Swift, SwiftUI, AWS Lambda, DynamoDB, YOLOv8  
+🛠️ **Swift, SwiftUI, AWS Lambda, DynamoDB, YOLOv8**  
 📌 AI-powered iOS app for food tracking with image recognition.
 
 ### ✏️ [Collaborative Drawing App](https://github.com/sohanalli/Collaborative-Drawing-App)  
-🛠️ Kotlin, Jetpack Compose, Room, MVVM, Firebase  
+🛠️ **Kotlin, Jetpack Compose, Room, MVVM, Firebase**  
 📌 Android app for real-time collaborative drawing.
 
 ### 💬 [Cross-Platform Chat App](https://github.com/sohanalli/RealTime-Chat-App)  
-🛠️ React, JavaScript, Node.js, Android, WebSocket, MongoDB  
+🛠️ **React, JavaScript, Node.js, Android, WebSocket, MongoDB**  
 📌 Web & Android real-time chat application using WebSockets.
 
 ### 🎓 [Learning Management System (LMS)](https://github.com/sohanalli/LMS)  
-🛠️ C#, ASP.NET Core, MySQL, Docker  
+🛠️ **C#, ASP.NET Core, MySQL, Docker**  
 📌 Scalable online education system with authentication & course management.
 
+### ⭐ [A-Star Visualization](https://github.com/sohanalli/A-Star-Visualization)  
+🛠️ **D3.js, HTML, CSS, JavaScript**   
+📌 Real-time visualization of the A* algorithm for pathfinding.
+
 ### 🎮 [Dino Game Simulation](https://github.com/sohanalli/Dino-Game)  
-🛠️ C++, SFML, OOP  
+🛠️ **C++, SFML, OOP**  
 📌 2D "No Internet Dino Game" clone with adaptive difficulty.
 
 🔗 **See all my projects:** [GitHub Repositories](https://github.com/sohanalli?tab=repositories)
